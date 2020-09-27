@@ -1,0 +1,1707 @@
+!!python/object:networkx.classes.graph.Graph
+_adj:
+  30000012: {}
+  30000015: {}
+  30000016: {}
+  30000017: {}
+  30000019: {}
+  30000036: {}
+  30000038: {}
+  30000041: {}
+  30000044: {}
+  30000047: {}
+  30000049: {}
+  30000065: {}
+  30000070: {}
+  30000072: {}
+  30000089: {}
+  30000093: {}
+  30000094: {}
+  30000095: {}
+  30000096: {}
+  30000098: {}
+  30000100: {}
+  30000104: {}
+  30000105: {}
+  30000108: {}
+  30000110: {}
+  30000113: {}
+  30000162: {}
+  30000164: {}
+  30000169: {}
+  30000186: {}
+  30000192: {}
+  30000196: {}
+  30000198: {}
+  30000199: {}
+  30000203: {}
+  30000204: {}
+  30001356: {}
+  30001385: {}
+  30001390: {}
+  30001398: {}
+  30001402: {}
+  30001420: {}
+  30001435: {}
+  30001437: {}
+  30001439: {}
+  30001442: {}
+  30001446: {}
+  30001661: {}
+  30001663: {}
+  30001681: {}
+  30001683: {}
+  30001719: {}
+  30002050: {}
+  30002056: {}
+  30002064: {}
+  30002065: {}
+  30002077: {}
+  30002079: {}
+  30002082: {}
+  30002085: {}
+  30002086: {}
+  30002088: {}
+  30002091: {}
+  30002095: {}
+  30002097: {}
+  30002099: {}
+  30002101: {}
+  30002216: {}
+  30002219: {}
+  30002236: {}
+  30002238: {}
+  30002240: {}
+  30002246: {}
+  30002255: {}
+  30002270: {}
+  30002273: {}
+  30002387: {}
+  30002389: {}
+  30002391: {}
+  30002393: {}
+  30002401: {}
+  30002402: {}
+  30002405: {}
+  30002406: {}
+  30002409: {}
+  30002411: {}
+  30002414: {}
+  30002417: {}
+  30002420: {}
+  30002514: {}
+  30002515: {}
+  30002536: {}
+  30002537: {}
+  30002540: {}
+  30002551: {}
+  30002555: {}
+  30002559: {}
+  30002561: {}
+  30002574: {}
+  30002577: {}
+  30002579: {}
+  30002580: {}
+  30002635: {}
+  30002645: {}
+  30002651: {}
+  30002653: {}
+  30002666: {}
+  30002686: {}
+  30002693: {}
+  30002697: {}
+  30002702: {}
+  30002718: {}
+  30002721: {}
+  30002722: {}
+  30002725: {}
+  30002728: {}
+  30002729: {}
+  30002741: {}
+  30002742: {}
+  30002756: {}
+  30002758: {}
+  30002760: {}
+  30002767: {}
+  30002770: {}
+  30002796: {}
+  30002807: {}
+  30002810: {}
+  30002812: {}
+  30002813: {}
+  30002957: {}
+  30002960: {}
+  30002975: {}
+  30002977: {}
+  30002980: {}
+  30002983: {}
+  30002985: {}
+  30002987: {}
+  30003000: {}
+  30003022: {}
+  30003042: {}
+  30003044: {}
+  30003059: {}
+  30003060: {}
+  30003068: {}
+  30003070: {}
+  30003072: {}
+  30003079: {}
+  30003087: {}
+  30003089: {}
+  30003091: {}
+  30003093: {}
+  30003424: {}
+  30003425: {}
+  30003444: {}
+  30003460: {}
+  30003466: {}
+  30003467: {}
+  30003470: {}
+  30003474: {}
+  30003478: {}
+  30003480: {}
+  30003481: {}
+  30003484: {}
+  30003499: {}
+  30003530: {}
+  30003541: {}
+  30003543: {}
+  30003544: {}
+  30003556: {}
+  30003559: {}
+  30003565: {}
+  30003568: {}
+  30003569: {}
+  30003571: {}
+  30003573: {}
+  30003584: {}
+  30003595: {}
+  30003596: {}
+  30003598: {}
+  30003600: {}
+  30003601: {}
+  30003602: {}
+  30003606: {}
+  30003787: {}
+  30003789: {}
+  30003793: {}
+  30003795: {}
+  30003797: {}
+  30003800: {}
+  30003803: {}
+  30003805: {}
+  30003806: {}
+  30003819: {}
+  30003822: {}
+  30003823: {}
+  30003825: {}
+  30003829: {}
+  30003833: {}
+  30003834: {}
+  30003835: {}
+  30003837: {}
+  30003838: {}
+  30003840: {}
+  30003841: {}
+  30003843: {}
+  30003845: {}
+  30003848: {}
+  30003851: {}
+  30003854: {}
+  30003856: {}
+  30003884: {}
+  30003886: {}
+  30003892: {}
+  30003897: {}
+  30003900: {}
+  30003902: {}
+  30003905: {}
+  30003907: {}
+  30003918: {}
+  30003919: {}
+  30003922: {}
+  30003923: {}
+  30003926: {}
+  30003927: {}
+  30003929: {}
+  30003930: {}
+  30003933: {}
+  30003934: {}
+  30003936: {}
+  30003938: {}
+  30003941: {}
+  30004104: {}
+  30004108: {}
+  30004117: {}
+  30004120: {}
+  30004121: {}
+  30004137: {}
+  30004140: {}
+  30004141: {}
+  30004231: {}
+  30004232: {}
+  30004236: {}
+  30004239: {}
+  30004242: {}
+  30004245: {}
+  30004247: {}
+  30004255: {}
+  30004256: {}
+  30004257: {}
+  30004259: {}
+  30004262: {}
+  30004264: {}
+  30004267: {}
+  30004269: {}
+  30004273: {}
+  30004278: {}
+  30004280: {}
+  30004284: {}
+  30004285: {}
+  30004287: {}
+  30004289: {}
+  30004292: {}
+  30004298: {}
+  30004303: {}
+  30004308: {}
+  30004309: {}
+  30004977: {}
+  30004980: {}
+  30004986: {}
+  30004988: {}
+  30004991: {}
+  30004996: {}
+  30004997: {}
+  30005000: {}
+  30005003: {}
+  30005007: {}
+  30005010: {}
+  30005012: {}
+  30005020: {}
+  30005030: {}
+  30005032: {}
+  30005061: {}
+  30005063: {}
+  30005065: {}
+  30005072: {}
+  30005074: {}
+  30005077: {}
+  30005082: {}
+  30005084: {}
+  30005086: {}
+  30005195: {}
+  30005196: {}
+  30005207: {}
+  30005210: {}
+  30005213: {}
+  30005224: {}
+  30005226: {}
+  30005233: {}
+  30005234: {}
+  30005236: {}
+  30005240: {}
+  30005255: {}
+  30005258: {}
+  30005259: {}
+  30005260: {}
+  30005261: {}
+  30005264: {}
+  30005270: {}
+  30005274: {}
+  30005275: {}
+  30005277: {}
+  30005278: {}
+  30005279: {}
+  30005281: {}
+  30005283: {}
+  30005286: {}
+  30005295: {}
+  30005297: {}
+  30005298: {}
+  30005320: {}
+  30005328: {}
+  30005329: {}
+  30045306: {}
+  30045307: {}
+  30045308: {}
+  30045312: {}
+  30045314: {}
+  30045317: {}
+  30045320: {}
+  30045330: {}
+  30045331: {}
+  30045333: {}
+  30045338: {}
+  30045339: {}
+  30045345: {}
+  30045347: {}
+  30045348: {}
+  30045349: {}
+  30045350: {}
+_node: &id002
+  30000012:
+    name: Asabona
+    region: Derelik
+    security: 0.322884
+  30000015:
+    name: Sendaya
+    region: Derelik
+    security: 0.293933
+  30000016:
+    name: Nazhgete
+    region: Derelik
+    security: 0.391497
+  30000017:
+    name: Futzchag
+    region: Derelik
+    security: 0.172229
+  30000019:
+    name: Podion
+    region: Derelik
+    security: 0.109705
+  30000036:
+    name: Yishinoon
+    region: Derelik
+    security: 0.424718
+  30000038:
+    name: Dooz
+    region: Derelik
+    security: 0.423729
+  30000041:
+    name: Bairshir
+    region: Derelik
+    security: 0.364088
+  30000044:
+    name: Faspera
+    region: Derelik
+    security: 0.128258
+  30000047:
+    name: Majamar
+    region: Derelik
+    security: 0.369186
+  30000049:
+    name: Camal
+    region: Derelik
+    security: 0.212977
+  30000065:
+    name: Akhrad
+    region: Derelik
+    security: 0.358477
+  30000070:
+    name: Gomati
+    region: Derelik
+    security: 0.387421
+  30000072:
+    name: Nakah
+    region: Derelik
+    security: 0.363864
+  30000089:
+    name: Sosa
+    region: Derelik
+    security: 0.301179
+  30000093:
+    name: Ishkad
+    region: Derelik
+    security: 0.366036
+  30000094:
+    name: Hahyil
+    region: Derelik
+    security: 0.208115
+  30000095:
+    name: Asilem
+    region: Derelik
+    security: 0.284998
+  30000096:
+    name: Mahnagh
+    region: Derelik
+    security: 0.205003
+  30000098:
+    name: Kehrara
+    region: Derelik
+    security: 0.364844
+  30000100:
+    name: Timeor
+    region: Derelik
+    security: 0.314131
+  30000104:
+    name: Mahti
+    region: Derelik
+    security: 0.228282
+  30000105:
+    name: Abha
+    region: Derelik
+    security: 0.434101
+  30000108:
+    name: Nieril
+    region: Derelik
+    security: 0.35344
+  30000110:
+    name: Bekirdod
+    region: Derelik
+    security: 0.405349
+  30000113:
+    name: Astabih
+    region: Derelik
+    security: 0.408818
+  30000162:
+    name: Maila
+    region: The Forge
+    security: 0.440715
+  30000164:
+    name: Messoya
+    region: The Forge
+    security: 0.315086
+  30000169:
+    name: Ihakana
+    region: The Forge
+    security: 0.380809
+  30000186:
+    name: Oijanen
+    region: The Forge
+    security: 0.351969
+  30000192:
+    name: Otanuomi
+    region: The Forge
+    security: 0.372287
+  30000196:
+    name: Otosela
+    region: The Forge
+    security: 0.238157
+  30000198:
+    name: Paala
+    region: The Forge
+    security: 0.134379
+  30000199:
+    name: Fuskunen
+    region: The Forge
+    security: 0.224637
+  30000203:
+    name: Eruka
+    region: The Forge
+    security: 0.417261
+  30000204:
+    name: Ohkunen
+    region: The Forge
+    security: 0.384887
+  30001356:
+    name: Dantumi
+    region: Lonetrek
+    security: 0.398268
+  30001385:
+    name: Jan
+    region: Lonetrek
+    security: 0.416954
+  30001390:
+    name: Pakkonen
+    region: Lonetrek
+    security: 0.42091
+  30001398:
+    name: Aunenen
+    region: Lonetrek
+    security: 0.44779
+  30001402:
+    name: Passari
+    region: Lonetrek
+    security: 0.440063
+  30001420:
+    name: Daras
+    region: Lonetrek
+    security: 0.359979
+  30001435:
+    name: Ohbochi
+    region: Lonetrek
+    security: 0.410927
+  30001437:
+    name: Tamo
+    region: Lonetrek
+    security: 0.338287
+  30001439:
+    name: Anin
+    region: Lonetrek
+    security: 0.358628
+  30001442:
+    name: Saranen
+    region: Lonetrek
+    security: 0.096294
+  30001446:
+    name: Otsasai
+    region: Lonetrek
+    security: 0.349161
+  30001661:
+    name: Gyerzen
+    region: Tash-Murkon
+    security: 0.43818
+  30001663:
+    name: Gemodi
+    region: Tash-Murkon
+    security: 0.359262
+  30001681:
+    name: Teshkat
+    region: Tash-Murkon
+    security: 0.420654
+  30001683:
+    name: Nasesharafa
+    region: Tash-Murkon
+    security: 0.170233
+  30001719:
+    name: Sagain
+    region: Tash-Murkon
+    security: 0.43391
+  30002050:
+    name: Hagilur
+    region: Metropolis
+    security: 0.362024
+  30002056:
+    name: Resbroko
+    region: Metropolis
+    security: 0.437876
+  30002064:
+    name: Arnstur
+    region: Metropolis
+    security: 0.118169
+  30002065:
+    name: Lasleinur
+    region: Metropolis
+    security: 0.237848
+  30002077:
+    name: Hakisalki
+    region: Metropolis
+    security: 0.211785
+  30002079:
+    name: Krirald
+    region: Metropolis
+    security: 0.164744
+  30002082:
+    name: Floseswin
+    region: Metropolis
+    security: 0.402952
+  30002085:
+    name: Eytjangard
+    region: Metropolis
+    security: 0.361598
+  30002086:
+    name: Turnur
+    region: Metropolis
+    security: 0.387434
+  30002088:
+    name: Vimeini
+    region: Metropolis
+    security: 0.353285
+  30002091:
+    name: Ontorn
+    region: Metropolis
+    security: 0.321813
+  30002095:
+    name: Eszur
+    region: Metropolis
+    security: 0.212796
+  30002097:
+    name: Klogori
+    region: Metropolis
+    security: 0.298558
+  30002099:
+    name: Egmar
+    region: Metropolis
+    security: 0.252872
+  30002101:
+    name: Ualkin
+    region: Metropolis
+    security: 0.15012
+  30002216:
+    name: Aldali
+    region: Domain
+    security: 0.426876
+  30002219:
+    name: Nomash
+    region: Domain
+    security: 0.395444
+  30002236:
+    name: Milal
+    region: Domain
+    security: 0.297923
+  30002238:
+    name: Bourar
+    region: Domain
+    security: 0.382961
+  30002240:
+    name: Arodan
+    region: Domain
+    security: 0.3211
+  30002246:
+    name: Neziel
+    region: Domain
+    security: 0.449944
+  30002255:
+    name: Miyeli
+    region: Domain
+    security: 0.376772
+  30002270:
+    name: Avair
+    region: Domain
+    security: 0.411113
+  30002273:
+    name: Porsharrah
+    region: Domain
+    security: 0.355681
+  30002387:
+    name: Bosena
+    region: Molden Heath
+    security: 0.400467
+  30002389:
+    name: Atlar
+    region: Molden Heath
+    security: 0.373367
+  30002391:
+    name: Hrokkur
+    region: Molden Heath
+    security: 0.298883
+  30002393:
+    name: Aedald
+    region: Molden Heath
+    security: 0.250458
+  30002401:
+    name: Meildolf
+    region: Molden Heath
+    security: 0.284598
+  30002402:
+    name: Istodard
+    region: Molden Heath
+    security: 0.29488
+  30002405:
+    name: Sakulda
+    region: Molden Heath
+    security: 0.302073
+  30002406:
+    name: Hedaleolfarber
+    region: Molden Heath
+    security: 0.303156
+  30002409:
+    name: Osvetur
+    region: Molden Heath
+    security: 0.24758
+  30002411:
+    name: Skarkon
+    region: Molden Heath
+    security: 0.047769
+  30002414:
+    name: Klingt
+    region: Molden Heath
+    security: 0.302147
+  30002417:
+    name: Kadlina
+    region: Molden Heath
+    security: 0.419907
+  30002420:
+    name: Egbinger
+    region: Molden Heath
+    security: 0.034555
+  30002514:
+    name: Bosboger
+    region: Heimatar
+    security: 0.324582
+  30002515:
+    name: Olfeim
+    region: Heimatar
+    security: 0.438684
+  30002536:
+    name: Ebodold
+    region: Heimatar
+    security: 0.444632
+  30002537:
+    name: Amamake
+    region: Heimatar
+    security: 0.438761
+  30002540:
+    name: Lantorn
+    region: Heimatar
+    security: 0.339486
+  30002551:
+    name: Aralgrund
+    region: Heimatar
+    security: 0.321559
+  30002555:
+    name: Eifer
+    region: Heimatar
+    security: 0.444525
+  30002559:
+    name: Ingunn
+    region: Heimatar
+    security: 0.276796
+  30002561:
+    name: Auren
+    region: Heimatar
+    security: 0.417913
+  30002574:
+    name: Hrondedir
+    region: Heimatar
+    security: 0.317424
+  30002577:
+    name: Bundindus
+    region: Heimatar
+    security: 0.428685
+  30002579:
+    name: Hedgiviter
+    region: Heimatar
+    security: 0.415673
+  30002580:
+    name: Katugumur
+    region: Heimatar
+    security: 0.171291
+  30002635:
+    name: Decon
+    region: Sinq Laison
+    security: 0.383779
+  30002645:
+    name: Carrou
+    region: Sinq Laison
+    security: 0.440589
+  30002651:
+    name: Fasse
+    region: Sinq Laison
+    security: 0.425743
+  30002653:
+    name: Gratesier
+    region: Sinq Laison
+    security: 0.435103
+  30002666:
+    name: Basgerin
+    region: Sinq Laison
+    security: 0.378678
+  30002686:
+    name: Olettiers
+    region: Sinq Laison
+    security: 0.434761
+  30002693:
+    name: Egghelende
+    region: Sinq Laison
+    security: 0.449268
+  30002697:
+    name: Ravarin
+    region: Sinq Laison
+    security: 0.372319
+  30002702:
+    name: Archee
+    region: Sinq Laison
+    security: 0.445356
+  30002718:
+    name: Rancer
+    region: Sinq Laison
+    security: 0.364661
+  30002721:
+    name: Rorsins
+    region: Sinq Laison
+    security: 0.125204
+  30002722:
+    name: Lamadent
+    region: Sinq Laison
+    security: 0.341173
+  30002725:
+    name: Goinard
+    region: Sinq Laison
+    security: 0.342349
+  30002728:
+    name: Lermireve
+    region: Sinq Laison
+    security: 0.270577
+  30002729:
+    name: Aetree
+    region: Sinq Laison
+    security: 0.178356
+  30002741:
+    name: Horkkisen
+    region: The Citadel
+    security: 0.438425
+  30002742:
+    name: Erila
+    region: The Citadel
+    security: 0.448706
+  30002756:
+    name: Ishomilken
+    region: The Citadel
+    security: 0.374638
+  30002758:
+    name: Hasama
+    region: The Citadel
+    security: 0.27144
+  30002760:
+    name: Manjonakko
+    region: The Citadel
+    security: 0.334717
+  30002767:
+    name: Kubinen
+    region: The Citadel
+    security: 0.416024
+  30002770:
+    name: Tunudan
+    region: The Citadel
+    security: 0.414378
+  30002796:
+    name: Hysera
+    region: The Citadel
+    security: 0.397183
+  30002807:
+    name: Nagamanen
+    region: The Citadel
+    security: 0.304726
+  30002810:
+    name: Eranakko
+    region: The Citadel
+    security: 0.324033
+  30002812:
+    name: Tannolen
+    region: The Citadel
+    security: 0.303626
+  30002813:
+    name: Tama
+    region: The Citadel
+    security: 0.282556
+  30002957:
+    name: Tzvi
+    region: Devoid
+    security: 0.279871
+  30002960:
+    name: Arzad
+    region: Devoid
+    security: 0.22043
+  30002975:
+    name: Roushzar
+    region: Devoid
+    security: 0.36698
+  30002977:
+    name: Arayar
+    region: Devoid
+    security: 0.386265
+  30002980:
+    name: Sosan
+    region: Devoid
+    security: 0.335651
+  30002983:
+    name: Soosat
+    region: Devoid
+    security: 0.336627
+  30002985:
+    name: Itsyamil
+    region: Devoid
+    security: 0.248297
+  30002987:
+    name: Ussad
+    region: Devoid
+    security: 0.16237
+  30003000:
+    name: Thakala
+    region: Devoid
+    security: 0.352545
+  30003022:
+    name: Mya
+    region: Everyshore
+    security: 0.371081
+  30003042:
+    name: Alachene
+    region: Everyshore
+    security: 0.342365
+  30003044:
+    name: Elarel
+    region: Everyshore
+    security: 0.394527
+  30003059:
+    name: Adeel
+    region: Everyshore
+    security: 0.353048
+  30003060:
+    name: Mannar
+    region: Everyshore
+    security: 0.285023
+  30003068:
+    name: Kourmonen
+    region: The Bleak Lands
+    security: 0.36348
+  30003070:
+    name: Sosala
+    region: The Bleak Lands
+    security: 0.420527
+  30003072:
+    name: Iesa
+    region: The Bleak Lands
+    security: 0.413819
+  30003079:
+    name: Saikamon
+    region: The Bleak Lands
+    security: 0.412492
+  30003087:
+    name: Haras
+    region: The Bleak Lands
+    security: 0.279962
+  30003089:
+    name: Kurniainen
+    region: The Bleak Lands
+    security: 0.114374
+  30003091:
+    name: Tannakan
+    region: The Bleak Lands
+    security: 0.247082
+  30003093:
+    name: Ayeroilen
+    region: The Bleak Lands
+    security: 0.446568
+  30003424:
+    name: Enden
+    region: Metropolis
+    security: 0.392752
+  30003425:
+    name: Erstet
+    region: Metropolis
+    security: 0.449402
+  30003444:
+    name: Mateber
+    region: Metropolis
+    security: 0.348949
+  30003460:
+    name: Offikatlin
+    region: Metropolis
+    security: 0.416438
+  30003466:
+    name: Eurgrana
+    region: Metropolis
+    security: 0.416024
+  30003467:
+    name: Frulegur
+    region: Metropolis
+    security: 0.434329
+  30003470:
+    name: Odebeinn
+    region: Metropolis
+    security: 0.3078
+  30003474:
+    name: Sahda
+    region: Domain
+    security: 0.415743
+  30003478:
+    name: Basan
+    region: Domain
+    security: 0.304407
+  30003480:
+    name: Amod
+    region: Domain
+    security: 0.295886
+  30003481:
+    name: Unefsih
+    region: Domain
+    security: 0.388206
+  30003484:
+    name: Sibot
+    region: Domain
+    security: 0.171405
+  30003499:
+    name: Mai
+    region: Domain
+    security: 0.428053
+  30003530:
+    name: Raravath
+    region: Domain
+    security: 0.441866
+  30003541:
+    name: Faswiba
+    region: Domain
+    security: 0.353254
+  30003543:
+    name: Zanka
+    region: Domain
+    security: 0.379878
+  30003544:
+    name: Galeh
+    region: Domain
+    security: 0.449164
+  30003556:
+    name: Arton
+    region: Domain
+    security: 0.426982
+  30003559:
+    name: Mamet
+    region: Domain
+    security: 0.145582
+  30003565:
+    name: Conomette
+    region: Solitude
+    security: 0.299427
+  30003568:
+    name: Meunvon
+    region: Solitude
+    security: 0.272516
+  30003569:
+    name: Cadelanne
+    region: Solitude
+    security: 0.119324
+  30003571:
+    name: Anckee
+    region: Solitude
+    security: 0.246409
+  30003573:
+    name: Pertnineere
+    region: Solitude
+    security: 0.442911
+  30003584:
+    name: Sarline
+    region: Solitude
+    security: 0.43883
+  30003595:
+    name: Arittant
+    region: Solitude
+    security: 0.262354
+  30003596:
+    name: Oruse
+    region: Solitude
+    security: 0.196879
+  30003598:
+    name: Ogaria
+    region: Solitude
+    security: 0.164001
+  30003600:
+    name: Agaullores
+    region: Solitude
+    security: 0.071201
+  30003601:
+    name: Babirmoult
+    region: Solitude
+    security: 0.178823
+  30003602:
+    name: Ratillose
+    region: Solitude
+    security: 0.366468
+  30003606:
+    name: Toustain
+    region: Solitude
+    security: 0.411824
+  30003787:
+    name: Agoze
+    region: Placid
+    security: 0.208648
+  30003789:
+    name: Brarel
+    region: Placid
+    security: 0.094316
+  30003793:
+    name: Harroule
+    region: Placid
+    security: 0.085061
+  30003795:
+    name: Covryn
+    region: Placid
+    security: 0.355901
+  30003797:
+    name: Dastryns
+    region: Placid
+    security: 0.252395
+  30003800:
+    name: Alperaute
+    region: Placid
+    security: 0.231146
+  30003803:
+    name: Reynire
+    region: Placid
+    security: 0.15681
+  30003805:
+    name: Gare
+    region: Placid
+    security: 0.134029
+  30003806:
+    name: Pelille
+    region: Placid
+    security: 0.214825
+  30003819:
+    name: Barleguet
+    region: Placid
+    security: 0.068201
+  30003822:
+    name: Espigoure
+    region: Placid
+    security: 0.049927
+  30003823:
+    name: Kenninck
+    region: Placid
+    security: 0.114963
+  30003825:
+    name: Eugales
+    region: Placid
+    security: 0.404252
+  30003829:
+    name: Renarelle
+    region: Placid
+    security: 0.309963
+  30003833:
+    name: Oulley
+    region: Placid
+    security: 0.338416
+  30003834:
+    name: Chardalane
+    region: Placid
+    security: 0.372552
+  30003835:
+    name: Maut
+    region: Placid
+    security: 0.248017
+  30003837:
+    name: Aldranette
+    region: Placid
+    security: 0.36751
+  30003838:
+    name: Oicx
+    region: Placid
+    security: 0.330045
+  30003840:
+    name: Anchauttes
+    region: Placid
+    security: 0.339596
+  30003841:
+    name: Alsavoinon
+    region: Placid
+    security: 0.266366
+  30003843:
+    name: Avaux
+    region: Placid
+    security: 0.447705
+  30003845:
+    name: Ruerrotta
+    region: Placid
+    security: 0.305396
+  30003848:
+    name: Amasiree
+    region: Placid
+    security: 0.366469
+  30003851:
+    name: Reschard
+    region: Placid
+    security: 0.127918
+  30003854:
+    name: Alamel
+    region: Placid
+    security: 0.170913
+  30003856:
+    name: Athounon
+    region: Placid
+    security: 0.076206
+  30003884:
+    name: Nourbal
+    region: Khanid
+    security: 0.410644
+  30003886:
+    name: Ashmarir
+    region: Khanid
+    security: 0.423365
+  30003892:
+    name: Efa
+    region: Khanid
+    security: 0.42617
+  30003897:
+    name: Gehi
+    region: Khanid
+    security: 0.296805
+  30003900:
+    name: Ham
+    region: Khanid
+    security: 0.241894
+  30003902:
+    name: Hemouner
+    region: Khanid
+    security: 0.237806
+  30003905:
+    name: Chamemi
+    region: Khanid
+    security: 0.444911
+  30003907:
+    name: Tegheon
+    region: Khanid
+    security: 0.413441
+  30003918:
+    name: Hakana
+    region: Khanid
+    security: 0.315993
+  30003919:
+    name: Ashkoo
+    region: Khanid
+    security: 0.272018
+  30003922:
+    name: Nahrneder
+    region: Khanid
+    security: 0.250969
+  30003923:
+    name: Nandeza
+    region: Khanid
+    security: 0.246713
+  30003926:
+    name: Kuhri
+    region: Khanid
+    security: 0.192019
+  30003927:
+    name: Zahefeus
+    region: Khanid
+    security: 0.244603
+  30003929:
+    name: Neda
+    region: Khanid
+    security: 0.360001
+  30003930:
+    name: Goudiyah
+    region: Khanid
+    security: 0.145549
+  30003933:
+    name: Ibani
+    region: Khanid
+    security: 0.105173
+  30003934:
+    name: Cabeki
+    region: Khanid
+    security: 0.089786
+  30003936:
+    name: Nakis
+    region: Khanid
+    security: 0.232048
+  30003938:
+    name: Fanathor
+    region: Khanid
+    security: 0.258469
+  30003941:
+    name: Rafeme
+    region: Khanid
+    security: 0.183281
+  30004104:
+    name: Ansasos
+    region: Kador
+    security: 0.420356
+  30004108:
+    name: Chaneya
+    region: Kador
+    security: 0.320207
+  30004117:
+    name: Bushemal
+    region: Kador
+    security: 0.445418
+  30004120:
+    name: Iaokit
+    region: Kador
+    security: 0.407622
+  30004121:
+    name: Menri
+    region: Kador
+    security: 0.367294
+  30004137:
+    name: Omam
+    region: Kador
+    security: 0.323171
+  30004140:
+    name: Zinoo
+    region: Kador
+    security: 0.415962
+  30004141:
+    name: Hiremir
+    region: Kador
+    security: 0.321715
+  30004231:
+    name: Shakasi
+    region: Aridia
+    security: 0.317731
+  30004232:
+    name: Zayi
+    region: Aridia
+    security: 0.321585
+  30004236:
+    name: Yehaba
+    region: Aridia
+    security: 0.241707
+  30004239:
+    name: Kamih
+    region: Aridia
+    security: 0.244672
+  30004242:
+    name: Sadana
+    region: Aridia
+    security: 0.364688
+  30004245:
+    name: Udianoor
+    region: Aridia
+    security: 0.376389
+  30004247:
+    name: Marmeha
+    region: Aridia
+    security: 0.279645
+  30004255:
+    name: Parouz
+    region: Aridia
+    security: 0.1225
+  30004256:
+    name: Edilkam
+    region: Aridia
+    security: 0.072
+  30004257:
+    name: Hakatiz
+    region: Aridia
+    security: 0.112573
+  30004259:
+    name: Ertoo
+    region: Aridia
+    security: 0.136933
+  30004262:
+    name: Pemsah
+    region: Aridia
+    security: 0.047946
+  30004264:
+    name: Hoseen
+    region: Aridia
+    security: 0.075726
+  30004267:
+    name: Nema
+    region: Aridia
+    security: 0.306848
+  30004269:
+    name: Rashagh
+    region: Aridia
+    security: 0.400524
+  30004273:
+    name: Soliara
+    region: Aridia
+    security: 0.163396
+  30004278:
+    name: Sheri
+    region: Aridia
+    security: 0.056853
+  30004280:
+    name: Nalnifan
+    region: Aridia
+    security: 0.28601
+  30004284:
+    name: Defsunun
+    region: Aridia
+    security: 0.103369
+  30004285:
+    name: Zazamye
+    region: Aridia
+    security: 0.214707
+  30004287:
+    name: Esubara
+    region: Aridia
+    security: 0.242188
+  30004289:
+    name: Vaini
+    region: Aridia
+    security: 0.228142
+  30004292:
+    name: Soza
+    region: Aridia
+    security: 0.2755
+  30004298:
+    name: Tisot
+    region: Aridia
+    security: 0.089876
+  30004303:
+    name: Fobiner
+    region: Aridia
+    security: 0.175057
+  30004308:
+    name: Ned
+    region: Aridia
+    security: 0.176748
+  30004309:
+    name: Hophib
+    region: Aridia
+    security: 0.029147
+  30004977:
+    name: Yvangier
+    region: Essence
+    security: 0.397838
+  30004980:
+    name: Fliet
+    region: Essence
+    security: 0.345511
+  30004986:
+    name: Estaunitte
+    region: Essence
+    security: 0.428204
+  30004988:
+    name: Hulmate
+    region: Essence
+    security: 0.431834
+  30004991:
+    name: Vitrauze
+    region: Essence
+    security: 0.299746
+  30004996:
+    name: Obalyu
+    region: Essence
+    security: 0.423577
+  30004997:
+    name: Vifrevaert
+    region: Essence
+    security: 0.394994
+  30005000:
+    name: Old Man Star
+    region: Essence
+    security: 0.335687
+  30005003:
+    name: Adirain
+    region: Essence
+    security: 0.423686
+  30005007:
+    name: Lisbaetanne
+    region: Essence
+    security: 0.373263
+  30005010:
+    name: Atlulle
+    region: Essence
+    security: 0.404096
+  30005012:
+    name: Haine
+    region: Essence
+    security: 0.436471
+  30005020:
+    name: Seyllin
+    region: Essence
+    security: 0.413983
+  30005030:
+    name: Fensi
+    region: Kor-Azor
+    security: 0.396833
+  30005032:
+    name: Khabara
+    region: Kor-Azor
+    security: 0.340894
+  30005061:
+    name: Perbhe
+    region: Kor-Azor
+    security: 0.351467
+  30005063:
+    name: Schmaeel
+    region: Kor-Azor
+    security: 0.174403
+  30005065:
+    name: Arzi
+    region: Kor-Azor
+    security: 0.138333
+  30005072:
+    name: Gademam
+    region: Kor-Azor
+    security: 0.391041
+  30005074:
+    name: Daran
+    region: Kor-Azor
+    security: 0.231621
+  30005077:
+    name: Atarli
+    region: Kor-Azor
+    security: 0.44219
+  30005082:
+    name: Enal
+    region: Kor-Azor
+    security: 0.407628
+  30005084:
+    name: Miroona
+    region: Kor-Azor
+    security: 0.415573
+  30005086:
+    name: Arza
+    region: Kor-Azor
+    security: 0.327651
+  30005195:
+    name: Vecamia
+    region: Genesis
+    security: 0.444391
+  30005196:
+    name: Ahbazon
+    region: Genesis
+    security: 0.42052
+  30005207:
+    name: Nardiarang
+    region: Genesis
+    security: 0.431209
+  30005210:
+    name: Makhwasan
+    region: Genesis
+    security: 0.41512
+  30005213:
+    name: Hesarid
+    region: Genesis
+    security: 0.373222
+  30005224:
+    name: Assez
+    region: Genesis
+    security: 0.442118
+  30005226:
+    name: Dom-Aphis
+    region: Genesis
+    security: 0.436359
+  30005233:
+    name: Leran
+    region: Genesis
+    security: 0.419951
+  30005234:
+    name: Beke
+    region: Genesis
+    security: 0.34512
+  30005236:
+    name: Noranim
+    region: Genesis
+    security: 0.337221
+  30005240:
+    name: Gayar
+    region: Genesis
+    security: 0.299476
+  30005255:
+    name: Saphthar
+    region: Genesis
+    security: 0.314386
+  30005258:
+    name: Korridi
+    region: Genesis
+    security: 0.324548
+  30005259:
+    name: Lela
+    region: Genesis
+    security: 0.345111
+  30005260:
+    name: Keri
+    region: Genesis
+    security: 0.364385
+  30005261:
+    name: Antem
+    region: Genesis
+    security: 0.31288
+  30005264:
+    name: Angur
+    region: Genesis
+    security: 0.177585
+  30005270:
+    name: Shalne
+    region: Genesis
+    security: 0.306287
+  30005274:
+    name: Otakod
+    region: Genesis
+    security: 0.332115
+  30005275:
+    name: Azedi
+    region: Genesis
+    security: 0.274415
+  30005277:
+    name: Pirna
+    region: Genesis
+    security: 0.2999
+  30005278:
+    name: Seshi
+    region: Genesis
+    security: 0.319564
+  30005279:
+    name: Anara
+    region: Genesis
+    security: 0.357107
+  30005281:
+    name: Exit
+    region: Genesis
+    security: 0.172101
+  30005283:
+    name: Central Point
+    region: Genesis
+    security: 0.233736
+  30005286:
+    name: New Eden
+    region: Genesis
+    security: 0.260554
+  30005295:
+    name: Murethand
+    region: Verge Vendor
+    security: 0.286453
+  30005297:
+    name: Ouelletta
+    region: Verge Vendor
+    security: 0.418579
+  30005298:
+    name: Costolle
+    region: Verge Vendor
+    security: 0.20681
+  30005320:
+    name: Hevrice
+    region: Verge Vendor
+    security: 0.418609
+  30005328:
+    name: Reblier
+    region: Verge Vendor
+    security: 0.398014
+  30005329:
+    name: Amoderia
+    region: Verge Vendor
+    security: 0.404852
+  30045306:
+    name: Hykanima
+    region: Black Rise
+    security: 0.246859
+  30045307:
+    name: Okagaiken
+    region: Black Rise
+    security: 0.140077
+  30045308:
+    name: Kehjari
+    region: Black Rise
+    security: 0.247581
+  30045312:
+    name: Korasen
+    region: Black Rise
+    security: 0.128991
+  30045314:
+    name: Kinakka
+    region: Black Rise
+    security: 0.415623
+  30045317:
+    name: Iralaja
+    region: Black Rise
+    security: 0.319767
+  30045320:
+    name: Pavanakka
+    region: Black Rise
+    security: 0.395649
+  30045330:
+    name: Okkamon
+    region: Black Rise
+    security: 0.285364
+  30045331:
+    name: Vaaralen
+    region: Black Rise
+    security: 0.313497
+  30045333:
+    name: Prism
+    region: Black Rise
+    security: 0.235087
+  30045338:
+    name: Hikkoken
+    region: Black Rise
+    security: 0.342755
+  30045339:
+    name: Enaluri
+    region: Black Rise
+    security: 0.327798
+  30045345:
+    name: Hirri
+    region: Black Rise
+    security: 0.335504
+  30045347:
+    name: Oinasiken
+    region: Black Rise
+    security: 0.233714
+  30045348:
+    name: Notoras
+    region: Black Rise
+    security: 0.188791
+  30045349:
+    name: Rakapas
+    region: Black Rise
+    security: 0.22278
+  30045350:
+    name: Teimo
+    region: Black Rise
+    security: 0.273208
+adjlist_inner_dict_factory: &id001 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id001
+edge_attr_dict_factory: *id001
+graph: {}
+graph_attr_dict_factory: *id001
+node_attr_dict_factory: *id001
+node_dict_factory: *id001
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id002
